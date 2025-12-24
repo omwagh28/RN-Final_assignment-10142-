@@ -62,14 +62,6 @@ microSMProject/
 │   ├── src/
 │   └── package.json
 │
-├── screenshots/
-│   ├── login.png
-│   ├── register.png
-│   ├── feed.png
-│   ├── create.png
-│   └── profile.png
-│
-├── screen-recording.mp4 
 └── README.md
 ```
 
@@ -121,26 +113,36 @@ npx expo start
 
 ---
 
-## 📸 Screenshots & Demo
 
-Screenshots of all major features are included in the `screenshots` folder.
-login page - <img width="100" height="600" alt="Image" src="https://github.com/user-attachments/assets/8b634168-9f81-40d7-b896-b5d5995f8980" />
-Register page -
-feed page -
-create page -
-profile page - 
+---
 
-An optional screen recording is included to demonstrate the full app flow.
-video demontration - <video src="https://github.com/user-attachments/assets/03793eaa-8932-437f-80e8-4ef02bb478fd" controls="controls" style="max-width: 100%;">
+## 📸 Screenshots
+
+| Login | Register |
+|------|----------|
+| <img src="https://github.com/user-attachments/assets/8b634168-9f81-40d7-b896-b5d5995f8980" width="220" /> | <img src="https://github.com/user-attachments/assets/8b634168-9f81-40d7-b896-b5d5995f8980" width="220" /> |
+
+| Feed | Create |
+|------|--------|
+| <img src="https://github.com/user-attachments/assets/efe88a1e-05cd-426b-b898-7d07f002e442" width="220" /> | <img src="https://github.com/user-attachments/assets/07e7970c-8046-460a-a04a-5f6976054a87" width="220" /> |
+
+| Profile |
+|---------|
+| <img src="https://github.com/user-attachments/assets/1a112691-720b-4f22-9a6f-baa459d1835f" width="220" /> |
+
+---
+
+## 🎥 Demo Video
+
+▶️ Full app walkthrough video:  
+<video src="https://github.com/user-attachments/assets/03793eaa-8932-437f-80e8-4ef02bb478fd" controls="controls" style="max-width: 100%;">
 </video>
-
-
 
 ---
 
 ## 🧠 Design Decisions
 
-- Backend is the single source of truth
+- Backend acts as the single source of truth
 - JWT-based secure authentication
 - Clear separation of frontend and backend
 - Simple and clean UI focused on usability
@@ -150,3 +152,4 @@ video demontration - <video src="https://github.com/user-attachments/assets/0379
 ## ✅ Status
 
 This project is fully functional and ready for evaluation.
+
