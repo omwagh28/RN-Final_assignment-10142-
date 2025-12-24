@@ -124,8 +124,15 @@ npx expo start
 ## 📸 Screenshots & Demo
 
 Screenshots of all major features are included in the `screenshots` folder.
+login page - 
+Register page -
+feed page -
+create page -
+profile page - 
 
 An optional screen recording is included to demonstrate the full app flow.
+video demontration - 
+
 
 ---
 
