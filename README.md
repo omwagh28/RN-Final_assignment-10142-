@@ -131,7 +131,9 @@ create page -
 profile page - 
 
 An optional screen recording is included to demonstrate the full app flow.
-video demontration - 
+video demontration - <video src="https://github.com/user-attachments/assets/03793eaa-8932-437f-80e8-4ef02bb478fd" controls="controls" style="max-width: 100%;">
+</video>
+
 
 
 ---
