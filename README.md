@@ -124,7 +124,7 @@ npx expo start
 ## 📸 Screenshots & Demo
 
 Screenshots of all major features are included in the `screenshots` folder.
-login page - <img src="![Image](https://github.com/user-attachments/assets/a8b3d804-8cc8-4dcb-8ebe-c73872b248ca)" width="400" alt="Description of image">  
+login page - <img width="100" height="600" alt="Image" src="https://github.com/user-attachments/assets/8b634168-9f81-40d7-b896-b5d5995f8980" />
 Register page -
 feed page -
 create page -
